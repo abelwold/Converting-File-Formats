@@ -1,0 +1,24 @@
+This is some explanation about the application.
+
+The application gives you access to import txt file and convert them to csv and xlm. 
+
+**Note**
+
+Txt file shoud be five column of data and separated with "|" symbol in order to import data and convert other wise it wont work.
+
+Converting to CSV format 
+ - Date format from YYYY/DD/MM to DD.MM.YYYY format working 
+ - Time format not working
+ - Speed m/s to knots (nautical miles per hour) working
+ - Distance from km to Nautical miles working
+ - Description stays as it is
+
+Converting to XLM format 
+ - Date format not working 
+ - Time format not working
+ - Speed m/s to knots (nautical miles per hour) working
+ - Distance from km to Nautical miles working
+ - Description stays as it is
+
+
+
